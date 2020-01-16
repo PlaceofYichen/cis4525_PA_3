@@ -3,4 +3,5 @@ Programming Assignment #3 for Temple U Machine Learning course
 
 1&2.png are the assignment descriptions
 
-Check pa3.pdf for details.
+Check pa3.pdf for details and results.
+
